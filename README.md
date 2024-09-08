@@ -4,8 +4,5 @@ My code from the bootcamp
 ## My projects
 1. SQL
 2. R - basics
-3. R - data transformation
-4. R - data visualisation
-5. Looker Studio dashboard
-6. R - machine learning
-7. Python
+3. R - data visualisation
+4. R - regression
